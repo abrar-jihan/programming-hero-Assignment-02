@@ -426,7 +426,7 @@ footer {
   border-top: 1px solid #ffffff;
 }
 
-@media (max-width: 480px) {
+@media screen and (max-width: 480px) {
   nav {
     padding: 50px 30px;
   }
