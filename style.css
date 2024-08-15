@@ -706,7 +706,7 @@ footer {
   .teams {
     width: 80%;
     display: grid;
-    margin: 0px 45px;
+    margin: 0 auto;
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
     padding: 20px;
